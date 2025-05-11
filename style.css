@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: #0f0f1b;
+  color: #e0ffe0;
+  line-height: 1.6;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+h1, h2 {
+  color: #80ffea;
+}
+.section {
+  margin-bottom: 3rem;
+}
+a {
+  color: #00ffe7;
+  text-decoration: underline;
+}
+img {
+  border: 2px solid #80ffea;
+  border-radius: 12px;
+  margin-top: 1rem;
+}
